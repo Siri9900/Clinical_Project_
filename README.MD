@@ -27,7 +27,7 @@ ADSL, ADAE, ADLB, ADVS, ADQS
 - AE Summary Table
 - AE Listing
 - Baseline and Post-Baseline Efficacy Summary
-- Kaplan-Meier Time to Event Plot
+- Time to Event Plot
 
 **** Validation
 
@@ -44,5 +44,4 @@ ADSL, ADAE, ADLB, ADVS, ADQS
 - Git Version Control
 
 ## Author
-Shirisha
 Clinical SAS Programmer (Entry Level Portfolio Project)
